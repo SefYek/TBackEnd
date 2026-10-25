@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# Database
+db.sqlite3
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Django
+media/
+staticfiles/
+
+
+# TypeScript
+*.tsbuildinfo
+
+# Node.js
+node_modules/
+.next/
+out/

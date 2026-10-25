@@ -1,0 +1,27 @@
+{
+  "name": "my-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "eslint .",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^9.5.0",
+    "jalaali-js": "^2.0.1",
+    "next": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-persian-range-picker": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.5",
+    "@types/react": "19.3.0",
+    "typescript": "^5.5.0"
+  }
+}
